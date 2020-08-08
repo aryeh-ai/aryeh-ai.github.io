@@ -64,7 +64,7 @@ h1 {
   font-size: 2em;
 }
 mark {
-  color: #000;
+  color: #aeaeae;
   background: #ff0;
 }
 small {
@@ -189,7 +189,7 @@ th {
 }
 @media print {
   * {
-    color: #000 !important;
+    color: #aeaeae !important;
     text-shadow: none !important;
     background: transparent !important;
     -webkit-box-shadow: none !important;
@@ -236,14 +236,14 @@ th {
     page-break-after: avoid;
   }
   select {
-    background: #fff !important;
+    background: #aeaeae !important;
   }
   .navbar {
     display: none;
   }
   .table td,
   .table th {
-    background-color: #fff !important;
+    background-color: #aeaeae !important;
   }
   .btn > .caret,
   .dropup > .btn > .caret {
