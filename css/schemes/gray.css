@@ -12,18 +12,18 @@
 
 ::selection {
     color: #ffffff;
-    background: #7F8C8D;
+    background: #b2baba;
 }
 
 .btn-col,
 .project-details h5, 
 .project-info h5 {
-border-color: #7F8C8D;
+border-color: #b2baba;
 color: #7F8C8D;
 }
 
 .btn-col:hover {
-color: #7F8C8D;
+color: #b2baba;
 }
 
 .section-title h3, 
@@ -33,7 +33,7 @@ color: #7F8C8D;
 .sub-steps .sub-text,
 .testimonial .happy-client,
 .client-photos .photo-hold {
-border-color:#7F8C8D;
+border-color:#b2baba;
 }
 
 .color-scheme,
@@ -42,17 +42,17 @@ border-color:#7F8C8D;
 .site-name:hover,
 .project-details .details-list li .strong,  
 .social-icons ul li a:hover {
-color:#7F8C8D;
+color:#b2baba;
 }
 
 .site-name span,
 .photo-overlay h4 {
-background-color: #7F8C8D;
+background-color: #b2baba;
 }
 
 
 .step-details .sub-steps li:hover .icon {
-background-color: #7F8C8D;
+background-color: #b2baba;
 color:#ffffff;
 }
 
