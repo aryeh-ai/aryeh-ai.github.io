@@ -18,7 +18,7 @@ a {
 a:hover, a:focus, .btn:focus {
     text-decoration: none;
 	outline: none;
-	color: #6c6b6b
+	color: #a6a6a6
 }
 
 input:focus, textarea:focus {
